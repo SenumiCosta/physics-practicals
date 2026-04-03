@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --app --src-dir --eslint --no-git --use-npm)",
+      "Bash(git config:*)"
+    ]
+  }
+}

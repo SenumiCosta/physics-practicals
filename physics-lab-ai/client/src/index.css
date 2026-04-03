@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #161b22;
+}
+::-webkit-scrollbar-thumb {
+  background: #4361ee;
+  border-radius: 3px;
+}
+
+/* File drop active state */
+.drop-active {
+  border-color: #4361ee !important;
+  background-color: rgba(67, 97, 238, 0.1) !important;
+}

@@ -1,0 +1,47 @@
+{
+  "common": {
+    "appName": "PhysicsLab LK",
+    "tagline": "Interactive A/L Physics Practicals",
+    "search": "Search",
+    "filter": "Filter",
+    "home": "Home",
+    "simulate": "Simulate",
+    "aiAssistant": "AI Assistant",
+    "language": "Language",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "play": "Play",
+    "pause": "Pause"
+  },
+  "dashboard": {
+    "title": "Physics Practicals Lab",
+    "subtitle": "Interactive simulations for Sri Lankan A/L Physics",
+    "welcome": "Welcome to PhysicsLab",
+    "welcomeDesc": "Upload any physics practical (PDF or image) and AI will generate an interactive simulation with adjustable parameters and real-time observations.",
+    "uploadCTA": "Upload a Practical",
+    "askAI": "Ask AI Tutor"
+  },
+  "simulate": {
+    "title": "Generate Simulation",
+    "subtitle": "Upload a physics practical PDF or image to create an interactive simulation",
+    "dropzone": "Drop your Physics practical here",
+    "dropzoneHint": "or click to browse -- PDF or image (PNG, JPG, WebP), max 20MB",
+    "generating": "Generating...",
+    "extracting": "Extracting text...",
+    "analyzing": "Analyzing your practical...",
+    "buildingSim": "Generating simulation...",
+    "generateBtn": "Generate Simulation",
+    "newSimulation": "New Simulation",
+    "failed": "Generation Failed",
+    "tryAgain": "Try Again",
+    "waitMessage": "This usually takes 15-30 seconds"
+  },
+  "ai": {
+    "title": "AI Physics Tutor",
+    "subtitle": "Ask anything about A/L Physics",
+    "placeholder": "Ask a question about physics...",
+    "thinking": "Thinking...",
+    "error": "Failed to get response. Please try again.",
+    "clearChat": "Clear Chat"
+  }
+}
